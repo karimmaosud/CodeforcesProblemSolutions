@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  197_Div2_D
+//  67_Div2_C
 //
 //  Created by Karim Masoud on 5/10/17.
 //  Copyright © 2017 Karim Masoud. All rights reserved.
